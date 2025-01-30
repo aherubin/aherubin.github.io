@@ -1,0 +1,11 @@
+---
+title: "Horse pt2"
+output: html_document
+date: "2025-01-30"
+---
+
+## We are making websites.
+
+Here is another horse photo
+
+![](anotherhorse.jpg)
