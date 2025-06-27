@@ -10,7 +10,7 @@ aimee.herubin@vuw.ac.nz
 
 <b>PhD in Linguistics</b> - under examination
 
-Te Herenga Waka | Victoria Univeristy of Wellington
+Te Herenga Waka - Victoria Univeristy of Wellington
 
 Supervised by Paul Warren and Corinne Seals
 
