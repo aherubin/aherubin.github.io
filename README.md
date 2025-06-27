@@ -6,15 +6,15 @@ About me:
 Contact:
 aimee.herubin@vuw.ac.nz
 
-Degrees:
 
-PhD in Linguistics - under examination
+
+<b>PhD in Linguistics</b> - under examination
 
 Te Herenga Waka | Victoria Univeristy of Wellington
 
 Supervised by Paul Warren and Corinne Seals
-<p>
-MA in Linguistics 
+
+<b>MA in Linguistics</b> 
 
 Lancaster University
 
@@ -22,7 +22,12 @@ Supervised by Claire Nance and Danielle Turton
 
 
 
-
 <a href="Publications.html">Publications</a> 
+
 <a href="Presentations.html">Presentations</a>
+
+<a href="LecturingTutoring.html">Lecturing and Tutoring</a>
+
+<a href="MediaEngagement.html">Media Engagement</a>
+
 
