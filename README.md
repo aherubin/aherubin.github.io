@@ -1,4 +1,4 @@
-# Welcome! 
+# Welcome to Aimee Herubin's website!
 
 About me:
 
