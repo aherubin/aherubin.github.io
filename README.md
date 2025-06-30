@@ -6,6 +6,7 @@ My research interests include theoretical linguistics, sociolingusitics, phoneti
 
 Contact:
 aimee.herubin@vuw.ac.nz
+https://orcid.org/0009-0007-5665-4395 
 
 
 
