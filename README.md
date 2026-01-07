@@ -4,7 +4,7 @@
 I have recently completed my PhD on phonetic variation as a function of sexual orientation in the speech of Rainbow women. Rainbow is a term used in New Zealand to describe members of the LGBTQIA+ community. My research uses a case study format and mixed methods analyses to investigate the extent of speech style shifting in the construction of Rainbow identities by a group of queer women and gender diverse people.
 My research interests include theoretical linguistics, sociolingusitics, phonetics and phonology, identity, and gender and sexual orientation. 
 
-Send me a message on LinkedIn! <a href="www.linkedin.com/in/aimee-herubin-8838b91a2">Aimee Herubin's profile</a> 
+Send me a message on [LinkedIn](www.linkedin.com/in/aimee-herubin)!
 
 <a href="https://orcid.org/0009-0007-5665-4395">ORCID:0009-0007-5665-4395</a>
 
